@@ -98,6 +98,8 @@
     "Type": "Bollywood",
     "Actor": "Shahid Kapoor"
     },
+  
+ 
     
 
 {
@@ -238,12 +240,20 @@
 
 
  {
+
+    "name": "Chaitra Deshpande",
+    "Movie": "Three Idiots",
+    "Type": "Bollywood",
+    "Actor": "Aamir Khan"
+    },
+{
     "name": "Aishwarya Gole",
     "Movie": "Dreamgirl",
     "Type": "bollywood",
     "Actor": "Aayshman kurana"
     
-}
+},
+
 
 
   
