@@ -98,6 +98,8 @@
     "Type": "Bollywood",
     "Actor": "Shahid Kapoor"
     },
+  
+ 
     
 
 {
@@ -235,6 +237,14 @@
     "Actor": "Cris Ivans"
     
 }
+
+
+ {
+    "name": "Chaitra Deshpande",
+    "Movie": "Three Idiots",
+    "Type": "Bollywood",
+    "Actor": "Aamir Khan"
+    },
 
   
 
