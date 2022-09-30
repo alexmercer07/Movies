@@ -259,7 +259,13 @@
     "Actor": "Aayshman kurana"
     
 },
-
+{
+    "name": "Pournima Parase",
+    "Movie": "Super 30",
+    "Type": "bollywood",
+    "Actor": "Hrithik Roshan"
+    
+},
 
 
 {
@@ -284,6 +290,13 @@
     "Movie": "Shutter Island",
     "Type": "Hollywood",
     "Actor": "leonardo decaprio"
+    },
+    
+    {
+    "name": "Adnan Shaikh",
+    "Movie": "Call me by your name",
+    "Type": "Hollywood",
+    "Actor": "timothee chalamet"
     
 }
 
